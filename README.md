@@ -63,6 +63,19 @@ Nature teaches me patience. Both make me a better engineer.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
+# 🌐 Connect With Me
+
+<p align="center">
+
+📧 **Email** — [mohannitin494@gmail.com](mailto:mohannitin494@gmail.com)
+
+🌐 **Portfolio** — *Coming Soon*
+
+📍 **Location** — Bhopal, India
+
+</p>
+
+---
 
 # 📊 GitHub Stats
 
