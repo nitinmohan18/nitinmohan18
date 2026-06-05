@@ -68,19 +68,23 @@ Nature teaches me patience. Both make me a better engineer.
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=nitinmohan18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=495&border_radius=12" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=nitinmohan18&theme=tokyonight&hide_border=false&border_radius=12" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nitinmohan18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=495&border_radius=12" alt="Top Languages" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api?username=nitinmohan18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&border_radius=12" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=nitinmohan18&theme=tokyonight&hide_border=false&border_radius=12" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nitinmohan18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=660&border_radius=12" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 </div>
-
----
 # 📈 Contribution Graph
 
 <div align="center">
