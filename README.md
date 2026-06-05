@@ -66,14 +66,35 @@ Nature teaches me patience. Both make me a better engineer.
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=nitinmohan18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 
-![](https://streak-stats.demolab.com/?user=nitinmohan18&theme=dark&hide_border=false)
+<img src="https://github-readme-stats.shion.dev/api?username=nitinmohan18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=495&border_radius=12" alt="GitHub Stats" />
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nitinmohan18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=nitinmohan18&theme=tokyonight&hide_border=false&border_radius=12" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nitinmohan18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=495&border_radius=12" alt="Top Languages" />
+
+</div>
+
+---
+# 📈 Contribution Graph
+
+<div align="center">
+
+<!-- Animated contribution graph -->
+[![Nitin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitinmohan18&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=false&border_color=30363d&radius=8&custom_title=Nitin%27s%20Contribution%20Graph)](https://github.com/nitinmohan18)
+
+<!-- Trophies section for extra shine -->
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nitinmohan18&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1)](https://github.com/nitinmohan18)
+
+</div>
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=nitinmohan18&color=00CED1&style=flat-square)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=nitinmohan18&color=58a6ff&style=flat-square&label=Profile+Views)](https://visitcount.itsvg.in)
 
 [![](https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:1a1a2e,100:000000&height=120&section=footer)](https://github.com/nitinmohan18)
