@@ -69,7 +69,7 @@ Nature teaches me patience. Both make me a better engineer.
 
 📧 **Email** — [mohannitin494@gmail.com](mailto:mohannitin494@gmail.com)
 
-🌐 **Portfolio** — *Coming Soon*
+🌐 **Portfolio** - [nitinpandey-portfolio.vercel.app](https://nitinpandey-portfolio.vercel.app)
 
 📍 **Location** — Bhopal, India
 
