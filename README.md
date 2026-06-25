@@ -18,7 +18,7 @@ I work across AI, full-stack development, and system design with a focus on buil
 
 Currently exploring the space where intelligent systems meet scalable software engineering.
 
-Beyond tech —I spend time between two extremes: looking up at th 
+Beyond tech —I spend time between two extremes: looking up at the 
 night sky and getting lost in nature. Astronomy teaches me precision. 
 Nature teaches me patience. Both make me a better engineer.
 
