@@ -12,7 +12,7 @@
 
 # 💫 About Me
 
-I'm Nitin Mohan — a B.Tech student in Artificial Intelligence & Machine Learning at **Sagar Institute of Research and Technology, Bhopal**.
+I'm Nitin pandey — a B.Tech student in Artificial Intelligence & Machine Learning at **Sagar Institute of Research and Technology, Bhopal**.
 
 I work across AI, full-stack development, and system design with a focus on building software that is well-engineered and solves problems that actually matter. I prefer understanding systems deeply before building on top of them — from model architecture to deployment pipelines.
 
