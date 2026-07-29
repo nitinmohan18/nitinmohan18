@@ -87,7 +87,7 @@ Nature teaches me patience. Both make me a better engineer.
       <img src="https://github-readme-stats.shion.dev/api?username=nitinmohan18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&border_radius=12" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=nitinmohan18&theme=tokyonight&hide_border=false&border_radius=12" alt="GitHub Streak" />
+      <img src="./profile/streak.svg" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
