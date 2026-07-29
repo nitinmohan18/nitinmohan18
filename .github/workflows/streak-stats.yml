@@ -1,0 +1,18 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: DenverCoder1/github-readme-streak-stats@master
+        with:
+          user_id: nitinmohan18
+          theme: tokyonight
+          hide_border: false
+          border_radius: 12
+          exclude_days: ""
