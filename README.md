@@ -103,7 +103,7 @@ Nature teaches me patience. Both make me a better engineer.
 <div align="center">
 
 <!-- Animated contribution graph -->
-[![Nitin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitinmohan18&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=false&border_color=30363d&radius=8&custom_title=Nitin%27s%20Contribution%20Graph)](https://github.com/nitinmohan18)
+[![Nitin's GitHub  Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitinmohan18&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=false&border_color=30363d&radius=8&custom_title=Nitin%27s%20Contribution%20Graph)](https://github.com/nitinmohan18)
 
 </div>
 ---
