@@ -1,4 +1,4 @@
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:0d47a1&height=180&section=header&text=NITIN%20MOHAN&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)](https://github.com/nitinmohan18)
+
 
 <h3 align="center">AI/ML Student &nbsp;•&nbsp; Full Stack Developer &nbsp;•&nbsp; System Design</h3>
 <p align="center">Designing intelligent systems and scalable software — from the ground up.</p>
