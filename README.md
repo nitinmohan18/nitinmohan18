@@ -63,7 +63,7 @@ Nature teaches me patience. Both make me a better engineer.
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
-# 🌐 Connect With Me
+# 🌐 Connect With
 
 <p align="center">
 
